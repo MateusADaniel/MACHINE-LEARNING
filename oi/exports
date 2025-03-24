@@ -1,0 +1,6 @@
+export TF_XLA_FLAGS=--tf_xla_enable_xla_devices
+export XLA_FLAGS=--xla_gpu_cuda_data_dir=/usr/lib/cuda
+export NVINFER_PATH=$PWD/.venv/lib/python3.11/site-packages/tensorrt_libs
+export CUDNN_PATH=$PWD/.venv/lib/python3.11/site-packages/nvidia/cudnn/lib/
+export NVIDIA_PATH=/usr/local/cuda/lib64/
+export LD_LIBRARY_PATH=$NVIDIA_PATH:$CUDNN_PATH:$NVINFER_PATH:$LD_LIBRARY_PATH
