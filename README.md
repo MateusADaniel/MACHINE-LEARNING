@@ -1,3 +1,3 @@
-# MACHINE-LEARNING
-[Relatorio_Final_PIBIC_2024.pdf](https://raw.githubusercontent.com/MateusADaniel/MACHINE-LEARNING/blob/main/Relatorio_Final_PIBIC_2024.pdf)
+![Página 1 do PDF](./assets/Relatorio_Final_PIBIC_2024 (1)-01.png)
+![Página 2 do PDF](./assets/imagem2.png)
 
