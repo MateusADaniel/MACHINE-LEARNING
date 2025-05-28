@@ -1,2 +1,3 @@
 # MACHINE-LEARNING
-Repertorio referente ao meu projeto de iniciacao cientifica, PIBIC 2023-2024 
+[Relatorio_Final_PIBIC_2024.pdf](https://raw.githubusercontent.com/MateusADaniel/MACHINE-LEARNING/blob/main/Relatorio_Final_PIBIC_2024.pdf)
+
